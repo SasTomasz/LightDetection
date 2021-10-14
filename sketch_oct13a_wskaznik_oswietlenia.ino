@@ -33,7 +33,7 @@ void loop() {
 
   // light source
 
-  switch // to be continued...
+  switch
   
 
 }
