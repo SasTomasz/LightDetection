@@ -18,4 +18,4 @@ You can see how it works on https://youtu.be/KLP0ymyD_QU
 It may be powered from computer usb port
 
 # Breadboard
-![Breadboard](/Light%20Detection%20-%20on%20breadboard)
+![Breadboard](/Light%20Detection%20-%20on%20breadboard.jpg)
